@@ -121,6 +121,12 @@ I use grid for the overall layout  ,for inner elements I prefer using flexbox .
 Both of them can be independently used, it comes down to the personal preference.
 
 
+## References
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout
+
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 
